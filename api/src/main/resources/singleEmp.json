@@ -1,0 +1,11 @@
+{
+  "data": {
+    "id": "e48b18ff-d2fc-4fab-9ba6-af316495b64e",
+    "employee_name": "Christal Fahey",
+    "employee_salary": 305091,
+    "employee_age": 40,
+    "employee_title": "Direct Mining Director",
+    "employee_email": "bitwolf@company.com"
+  },
+  "status": "Successfully processed request."
+}
